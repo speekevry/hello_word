@@ -1,4 +1,1 @@
-hello_word
-==========
-
-My first repository
+This is my first app
